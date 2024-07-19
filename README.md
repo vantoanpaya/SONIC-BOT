@@ -23,7 +23,7 @@ Sonic Odyssey Bot is an application designed for interacting with the Sonic Odys
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/sonic-odyssey-bot.git
+   git clone https://github.com/vantoanpaya/SONIC-BOT.git
    ```
 
 2. Navigate into the project directory:
